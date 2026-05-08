@@ -5,7 +5,9 @@ A hypothesis-driven analysis of 100,000 U.S. domestic flights, examining what ac
 **Headline finding:** Departure delay alone explains 81% of variance in arrival delay (r = 0.90). Distance and flight duration explain almost none.
 
 📊 **Dataset:** [huggingface.co/datasets/avihayamor/US_flight-delay-2024](https://huggingface.co/datasets/avihayamor/US_flight-delay-2024)
+
 🗺️ **Interactive map:** [huggingface.co/spaces/avihayamor/flight-delay-map-2024](https://huggingface.co/spaces/avihayamor/flight-delay-map-2024)
+
 📓 **Notebook:** [Open in Colab](https://colab.research.google.com/drive/10lKxNniqdxiz8zS1i4NnEQP8I9wqanWG#scrollTo=3cHhDnDYujc2)
 
 ---
