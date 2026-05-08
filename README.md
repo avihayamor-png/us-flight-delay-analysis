@@ -127,11 +127,3 @@ A correlation heatmap identifies the strongest numeric predictors of `arr_delay`
 ## Author
 
 **Avihay Amor** — [linkedin.com/in/avihay-amor](https://linkedin.com/in/avihay-amor)
-
-## Files in this Dataset
-
-- `flight_data_2024_sample.csv` — cleaned sample of 100,000 flights
-- `q1_airlines.png` — bar chart: average delay by airline
-- `q2_time_of_day.png` — bar chart: average delay by hour
-- `q3_map.html` — interactive map: delay by departure airport
-- `q4_heatmap.png` — correlation heatmap
